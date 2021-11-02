@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sefa</h1>
 <h3 align="center">I am an undergraduate student with a great passion for all things about data science and machine learning, and I intend on working towards a career in the same industry.</h3>
 
-- 🔭 I’m currently working on **NLP, Sentiment Analysis, Churn Analysis, Optimization Techniques**
+- 🔭 I’m currently working on **NLP, GANs, Sentiment Analysis, Churn Analysis, Optimization Techniques**
 
 - 🌱 I’m currently learning **Scikit-Learn, PowerBl, SQL, SPSS**
 
